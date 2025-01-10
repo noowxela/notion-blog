@@ -8,6 +8,12 @@ __How-it-works/Documentation:__ [TBC](#)
 
 First, follow Notions [getting started guide](https://developers.notion.com/docs/getting-started) to get a `NOTION_TOKEN` and a `NOTION_DATABASE_ID`, then add them to a file called `.env.local`.
 
+U can go see the latest notion integration process
+https://www.notion.so/profile/integrations
+
+u can getting u notion secret token by creating a intergation instance.
+https://developers.notion.com/docs/create-a-notion-integration#create-your-integration-in-notion
+
 As a reference here's the Notion table I am using: https://www.notion.so/177b5fd4cdf78038a96ecfaa9731869e?v=a60302e22eb240a481fe2a34b0bd4909
 
 ```
